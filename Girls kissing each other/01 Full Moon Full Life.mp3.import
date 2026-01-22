@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dndnqa20fgyfh"
+path="res://.godot/imported/01 Full Moon Full Life.mp3-2eee2a1b614c9cea76e20d96c15b94d1.mp3str"
+
+[deps]
+
+source_file="res://Girls kissing each other/01 Full Moon Full Life.mp3"
+dest_files=["res://.godot/imported/01 Full Moon Full Life.mp3-2eee2a1b614c9cea76e20d96c15b94d1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
